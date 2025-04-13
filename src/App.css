@@ -1,0 +1,5 @@
+.react-phone-number-input__input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border-color: #a3a3a3; /* match normal border */
+  }
