@@ -38,16 +38,16 @@ If you are developing a production application, we recommend using TypeScript an
  ## 📸 Screenshots
 
 ### 🏠 Homepage
-![NavBar and Hero section](screenshots/Screenshot1.png)
+![NavBar and Hero section](src/Screenshots/Screenshot1.png)
 
 ### ✉️ Contact Form
-![OutSourcing Payment](screenshots/Screenshot2.png)
+![OutSourcing Payment](src/Screenshots/Screenshot2.png)
 
 ### ✉️ Task Manager
-![Task Manager](screenshots/Screenshot3.png)
+![Task Manager](src/Screenshots/Screenshot3.png)
 
 ### ✉️ Contact Form
-![Contact Form](screenshots/Screenshot4.png)
+![Contact Form](src/Screenshots/Screenshot4.png)
 
 ### ✉️footer
-![Footer](screenshots/Screenshot5.png)
+![Footer](src/Screenshots/Screenshot5.png)
