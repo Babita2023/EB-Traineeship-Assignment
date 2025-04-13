@@ -31,3 +31,23 @@ If you are developing a production application, we recommend using TypeScript an
 
 ### 4.  Then open your browser and go to:
  http://localhost:5173
+
+
+
+
+ ## 📸 Screenshots
+
+### 🏠 Homepage
+![NavBar and Hero section](screenshots/Screenshot1.png)
+
+### ✉️ Contact Form
+![OutSourcing Payment](screenshots/Screenshot2.png)
+
+### ✉️ Task Manager
+![Task Manager](screenshots/Screenshot3.png)
+
+### ✉️ Contact Form
+![Contact Form](screenshots/Screenshot4.png)
+
+### ✉️footer
+![Footer](screenshots/Screenshot5.png)
